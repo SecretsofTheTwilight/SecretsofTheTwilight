@@ -12,7 +12,7 @@ Here in the enchanted realms of our GitHub profile, you'll discover a treasure t
 
 **Beyond the Repositories**
 
-* **Join the Starlight Discourse:** Continue the enchantment on our Secrets of the Twilight Discord server, where ideas flow as freely as moonlit streams.
-* **Spread the Word with a Tweet:** Share your discoveries and connect with the wider community on Twitter at @SecretsofTheTL
+* **Join the Starlight Discourse:** Continue the enchantment on our Secrets of the Twilight Discord server: https://discord.gg/74Sf377pnh
+* **Spread the Word with a Tweet:** Share your discoveries and connect with the wider community on Twitter at https://twitter.com/SecretsofTheTL
 
 **Embrace the Magic. Let's Code Wonders Together!** 🔮
